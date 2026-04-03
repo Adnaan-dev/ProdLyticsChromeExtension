@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+      "@backend/*": [
+        "../backend/*"
+      ]
+    }
+  },
+  "include": [
+    "src/**/*",
+    "../backend/**/*"
+  ]
+}

@@ -1,0 +1,29 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 360px;
+  min-width: 360px;
+  max-width: 360px;
+  height: auto;
+  overflow-x: hidden;
+  /* Default until React applies theme */
+  background-color: #0c0e14;
+}
+
+body.pl-popup--light {
+  background-color: #eef0f4;
+}
+
+body.pl-popup--dark {
+  background-color: #0c0e14;
+}
+
+#root {
+  margin: 0;
+  padding: 0;
+  width: 360px;
+  min-width: 360px;
+  max-width: 360px;
+  overflow-x: hidden;
+}
