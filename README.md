@@ -313,7 +313,7 @@ This runs `npm install` in all three packages and links the shared `@prodlytics/
 cp frontend/.env.local.example frontend/.env.local
 ```
 
-Open `frontend/.env.local` and fill in your values:
+Open `frontend/.env.local` and fill in your values: v2
 
 ```env
 # ─── Required ────────────────────────────────────────
