@@ -44,7 +44,7 @@ The system works in three phases:
 2. **Interpret** — A Next.js backend classifies each domain as productive, neutral, or distracting using a built-in AI-style heuristic classifier, then computes focus scores, cognitive load indicators, and hourly breakdowns.
 3. **Act** — A rich dashboard gives users access to goals, blocklists, deep-work session tracking, Focus Mode, and personalized productivity insights — all in one place.
 
-> 💡 Cognitive-style metrics are heuristic productivity indicators designed to surface patterns, not medical diagnostics.
+> 💡 Cognitive-style metrics are heuristic productivity indicators designed to surface patterns, not medical diagnostics .
 
 ---
 
