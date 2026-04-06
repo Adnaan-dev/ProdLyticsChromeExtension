@@ -36,7 +36,7 @@
 
 ## 🧠 Project Overview
 
-ProdLytics is an end-to-end productivity analytics platform designed to give users genuine insight into how they spend time on the web — and tools to improve it.
+ProdLytics is an end-to-end productivity analytics platform designed to give users genuine insight into how they spend time on the web — and tools to improve it .
 
 The system works in three phases:
 
