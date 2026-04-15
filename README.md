@@ -9,7 +9,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-Extension%20Build-646CFF?style=for-the-badge&logo=vite)
 
-*A full-stack productivity intelligence platform — Chrome extension + Next.js dashboard + MongoDB — that tracks, classifies, and transforms your browsing behavior into actionable productivity insights.*
+*A full-stack productivity intelligence platform — Chrome extension + Next.js dashboard + MongoDB — that tracks, classifies, and transforms your browsing behavior into actionable productivity insights .*
 
 </div>
 
